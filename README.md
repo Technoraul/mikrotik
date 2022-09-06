@@ -2,5 +2,7 @@
 This script was created to get backup files (backup and rsc) from microtik.
 
 ### Manual:
-Change "username", "pass", "mikrotik", "tmp" values.
+1. Create txt file with IP addresses of your microtics;
+2. Change "username", "pass", "mikrotik", "tmp" values;
+3. Make the script file executable.
 
